@@ -1,0 +1,8 @@
+{
+  "id": "ferramenta-config",
+  "name": "Ferramenta Configurator",
+  "version": "0.0.1",
+  "description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+  "author": "Frethop",
+  "isDesktopOnly": false
+}
