@@ -1,8 +1,0 @@
-{
-  "id": "kaapata",
-  "name": "Kaapata Configurator",
-  "version": "v0.1.0",
-  "description": "This is a configuration plugin for the Kaapata Android app.",
-  "author": "Frethop",
-  "isDesktopOnly": false
-}
