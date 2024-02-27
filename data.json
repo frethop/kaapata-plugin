@@ -1,14 +1,16 @@
 {
-  "shape": "ring",
+  "vault1": "Base",
+  "vault2": "Base",
+  "vault3": "Base",
   "buttons": [
     {
       "useButton": true,
       "vault": "Base",
-      "action": "open",
+      "action": "write",
       "openChoice": "daily",
       "noteName": "jipping",
       "bookmarkName": "jipping kids",
-      "writeChoice": "specific",
+      "writeChoice": "daily",
       "notew": "Tester",
       "folderw": "Folder Name",
       "modew": "append",
@@ -19,7 +21,7 @@
       "commandBookmark": "Bookmark Name",
       "cameraFolder": "Folder Name",
       "cameraNote": "Note Name",
-      "label": "Daily"
+      "label": "Daily5"
     },
     {
       "useButton": false,
@@ -45,7 +47,7 @@
       "useButton": true,
       "vault": "Classes",
       "action": "open",
-      "openChoice": "note",
+      "openChoice": "bookmark",
       "noteName": "CSCI 112",
       "bookmarkName": "Bookmark Name",
       "writeChoice": "note",
@@ -62,7 +64,7 @@
       "label": "CSCI 112"
     },
     {
-      "useButton": false,
+      "useButton": true,
       "vault": "Vault",
       "action": "open",
       "openChoice": "note",
@@ -93,7 +95,7 @@
       "modew": "Mode",
       "promptw": "Prompt",
       "command": "openGradeset",
-      "commmandChoice": "note",
+      "commmandChoice": "bookmark",
       "commandNote": "CSCI 112",
       "commandBookmark": "Bookmark Name",
       "cameraFolder": "Folder Name",
@@ -119,5 +121,6 @@
       "cameraFolder": "Folder Name",
       "cameraNote": "Note Name"
     }
-  ]
+  ],
+  "shape": "ring"
 }
