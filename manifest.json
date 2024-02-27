@@ -1,8 +1,8 @@
 {
   "id": "kaapata",
-  "name": "Ferramenta Configurator",
-  "version": "v0.0.14",
-  "description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+  "name": "Kaapata Configurator",
+  "version": "v0.1.0",
+  "description": "This is a configuration plugin for the Kaapata Android app.",
   "author": "Frethop",
   "isDesktopOnly": false
 }
